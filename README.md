@@ -51,6 +51,8 @@
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo"  />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=white&style=for-the-badge" height="40" alt="powerbi logo" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge" height="40" alt="excel logo" />
 </div>
 
 ###
@@ -61,7 +63,10 @@
 
 ###
 
-<h3 align="left">🧠 Caderneta Digital Inteligente<br>Sistema desenvolvido para digitalizar o acompanhamento prático de estudantes de cursos técnicos do SENAC, utilizando recursos de Inteligência Artificial.</h3>
+<h3 align="left">
+  🧠 <a href="https://github.com/matheuscoronado/caderneta-digital" target="_blank">Caderneta Digital Inteligente</a><br>
+  Sistema desenvolvido para digitalizar o acompanhamento prático de estudantes de cursos técnicos do SENAC, utilizando recursos de Inteligência Artificial.
+</h3>
 
 ###
 
@@ -71,7 +76,11 @@
 
 ###
 
-<h4 align="left">Curso de Banco de Dados e SQL<br>Curso de Power BI</h4>
+<ul>
+  <li>Curso de Banco de Dados e SQL</li>
+  <li>Curso de Power BI</li>
+</ul>
+
 
 ###
 
@@ -85,7 +94,7 @@
   <a href="https://www.linkedin.com/in/matheus-coronado/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-  <a href="matheuscoronado48@gmail.com" target="_blank">
+  <a href="mailto:matheuscoronado48@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
 </div>
@@ -108,12 +117,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/matheuscoronado/matheuscoronado/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
-<h4 align="left">✨ Sempre aprendendo e buscando evoluir! Obrigado por visitar meu perfil!</h4>
+<h2 align="left">✨ Sempre aprendendo e buscando evoluir! Obrigado por visitar meu perfil!</h2>
 
 ###
