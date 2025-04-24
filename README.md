@@ -74,12 +74,12 @@
 
 <h1 align="left">🎓 Certificados e Conquistas</h1>
 
-###
-
 <ul>
-  <li>Curso de Banco de Dados e SQL</li>
-  <li>Curso de Power BI</li>
+  <li>📘 <a href="https://www.udemy.com/certificate/UC-589bd1b8-f707-45e3-81aa-32b39e6913ae/" target="_blank">Curso de Banco de Dados e SQL</a></li>
+  <li>📊 <a href="https://www.udemy.com/certificate/UC-47af4ce1-ad68-413b-844d-5c5b22de1176/" target="_blank">Curso de Power BI</a></li>
 </ul>
+
+
 
 
 ###
