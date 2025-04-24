@@ -1,3 +1,9 @@
+<h1 align="left">👋 Olá! Eu sou o Matheus Henrique Coronado Elias</h1>
+
+###
+
+<br clear="both">
+
 <h1 align="left">Sobre mim</h1>
 
 ###
@@ -6,11 +12,12 @@
 
 ###
 
+<br clear="both">
+
 <h1 align="left">🚀 Tecnologias e Ferramentas</h1>
 
 ###
 
-<br clear="both">
 
 <h4 align="left">Linguagens: HTML, CSS, JavaScript</h4>
 
@@ -26,8 +33,6 @@
 
 ###
 
-<br clear="both">
-
 <h4 align="left">Banco de Dados: MySQL</h4>
 
 ###
@@ -37,8 +42,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <h4 align="left">Ferramentas: Power BI, Excel, GitHub, VS Code</h4>
 
@@ -52,6 +55,8 @@
 
 ###
 
+<br clear="both">
+
 <h1 align="left">📁 Projetos em Destaque</h1>
 
 ###
@@ -60,6 +65,8 @@
 
 ###
 
+<br clear="both">
+
 <h1 align="left">🎓 Certificados e Conquistas</h1>
 
 ###
@@ -67,6 +74,8 @@
 <h4 align="left">Curso de Banco de Dados e SQL<br>Curso de Power BI</h4>
 
 ###
+
+<br clear="both">
 
 <h1 align="left">📫 Onde me Encontrar</h1>
 
@@ -82,6 +91,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <h1 align="left">Estatísticas</h1>
 
@@ -100,6 +111,8 @@
 <img src="https://raw.githubusercontent.com/matheuscoronado/matheuscoronado/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<br clear="both">
 
 <h4 align="left">✨ Sempre aprendendo e buscando evoluir! Obrigado por visitar meu perfil!</h4>
 
