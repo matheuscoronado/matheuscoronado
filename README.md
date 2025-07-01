@@ -64,7 +64,7 @@
 ###
 
 <h3 align="left">
-  🧠 <a href="https://github.com/HeitorDalla/caderneta-digital" target="_blank">Caderneta Digital Inteligente</a><br>
+  🧠 <a href="https://github.com/matheuscoronado/backendcaderneta" target="_blank">Caderneta Digital Inteligente</a><br>
   Sistema desenvolvido para digitalizar o acompanhamento prático de estudantes de cursos técnicos do SENAC, utilizando recursos de Inteligência Artificial.
 </h3>
 
